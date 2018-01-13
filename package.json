@@ -1,12 +1,24 @@
 {
-  "name": "socket-chat-example",
-  "version": "0.0.1",
-  "description": "my first socket.io app",
+  "name": "chat_demo",
+  "version": "1.0.0",
+  "description": "This is the source code for a very simple chat example used for\r the [Getting Started](http://socket.io/get-started/chat/) guide\r of the Socket.IO website.",
+  "main": "index.js",
   "dependencies": {
-    "express": "^4.15.2",
-    "socket.io": "^1.7.3"
+    "console.table": "^0.9.1",
+    "nodemon": "^1.13.0"
   },
+  "devDependencies": {},
   "scripts": {
-    "start": "node index.js"
-  }
+    "serve": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vikeshvaghela/chat_demo.git"
+  },
+  "author": "",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/vikeshvaghela/chat_demo/issues"
+  },
+  "homepage": "https://github.com/vikeshvaghela/chat_demo#readme"
 }
