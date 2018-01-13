@@ -13,12 +13,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/vikeshvaghela/chat_demo.git"
+    "url": "git+https://github.com/vikeshvaghela/nodemo.git"
   },
   "author": "",
   "license": "UNLICENSED",
   "bugs": {
-    "url": "https://github.com/vikeshvaghela/chat_demo/issues"
+    "url": "https://github.com/vikeshvaghela/nodemo/issues"
   },
-  "homepage": "https://github.com/vikeshvaghela/chat_demo#readme"
+  "homepage": "https://github.com/vikeshvaghela/nodemo#readme"
 }
